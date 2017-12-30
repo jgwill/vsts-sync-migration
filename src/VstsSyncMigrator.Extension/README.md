@@ -55,6 +55,3 @@ There are two ways to use these tools:
 |Chocolatey|[![Chocolatey](https://img.shields.io/chocolatey/v/vsts-sync-migrator.svg)](https://chocolatey.org/packages/vsts-sync-migrator/)|-|
 
 [Sonar Cube Analysis](https://sonarcloud.io/dashboard?id=vsts-sync-migrator%3Amaster)
-
-## FAQ
-
