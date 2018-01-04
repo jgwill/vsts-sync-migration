@@ -42,7 +42,7 @@ There are two ways to use these tools:
 
 ## The Technical Details
 
-|         | MASTER | PREVIEW |
+| MASTER | PREVIEW |
 | ------------- |:-------------:|
 | Quality Gate | [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=vsts-sync-migrator%3Amaster)](https://sonarcloud.io/dashboard/index/vsts-sync-migrator%3Amaster) | - |
 | Coverage | [![Code Coverage](https://sonarcloud.io/api/badges/measure?key=vsts-sync-migrator%3Amaster&metric=coverage)](https://sonarcloud.io/dashboard/?id=vsts-sync-migrator%3master) |  - |
